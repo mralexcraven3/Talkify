@@ -1,0 +1,168 @@
+repo_name: mralexcraven3/Talkify-client
+report_id: 8f1545e5cebcaae2c6fed67b4ac09341
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-14T00:38:13+00:00'
+requested_by: mralexcraven3
+provider: github
+branch: master
+detected_tools_count: 12
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client
+  detection_source: Repo Metadata
+- name: Electron
+  description: Build cross platform desktop apps with JavaScript, HTML, and CSS
+  website_url: http://electron.atom.io/
+  version: 9.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alex Craven
+  last_updated_on: 2020-06-20 19:26:42.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alex Craven
+  last_updated_on: 2020-06-20 19:26:42.000000000 Z
+- name: vuex
+  description: Centralized State Management for Vue.js.
+  website_url: https://vuex.vuejs.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Alex Craven
+  last_updated_on: 2020-06-20 19:26:42.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Alex Craven
+  last_updated_on: 2020-06-20 19:26:42.000000000 Z
+- name: "@vue/cli-plugin-pwa"
+  description: Pwa plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-pwa
+  version: 4.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18449/default_6dcac5c4efc2d5715bff50b0427ad187013cea59.png
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alex Craven
+  last_updated_on: 2020-06-20 19:26:42.000000000 Z
+- name: "@vue/cli-service"
+  description: Local service for vue-cli projects
+  package_url: https://www.npmjs.com/@vue/cli-service
+  version: 4.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alex Craven
+  last_updated_on: 2020-06-20 19:26:42.000000000 Z
+- name: register-service-worker
+  description: Script for registering service worker, with hooks
+  package_url: https://www.npmjs.com/register-service-worker
+  version: 1.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18539/default_e75c3c83e4af96462c99ddf6aabdef371444ed62.png
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alex Craven
+  last_updated_on: 2020-06-20 19:26:42.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alex Craven
+  last_updated_on: 2020-06-20 19:26:42.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 3.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alex Craven
+  last_updated_on: 2020-06-20 19:26:42.000000000 Z
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/mralexcraven3/Talkify-client/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alex Craven
+  last_updated_on: 2020-06-20 19:26:42.000000000 Z
